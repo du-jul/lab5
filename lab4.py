@@ -246,7 +246,7 @@ def main():
         elif var == "6":
             Driveway.count_file(input("Путь: "))
         else:
-            print("Завершение работы")
+            print("Работа программы завершена")
             break
 
 
